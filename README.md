@@ -1,1 +1,1 @@
-# GeekBrains_skleran
+# GeekBrains_sklearn
